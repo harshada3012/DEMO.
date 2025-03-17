@@ -1,2 +1,2 @@
-# DEMO.
+# News
 this is a demo website.
